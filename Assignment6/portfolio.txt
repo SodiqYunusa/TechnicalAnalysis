@@ -1,0 +1,6 @@
+AAPL
+MSFT
+JPM
+JNJ
+XOM
+KO
